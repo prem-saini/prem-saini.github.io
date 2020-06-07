@@ -3,7 +3,8 @@
 
 # About me
 I'm Prem Saini.
-I'm student in computer Science.
+I'm a student in computer Science.
+i'm a good web desiger.
 
 
 
